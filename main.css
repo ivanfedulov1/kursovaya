@@ -2,7 +2,7 @@
     background-color: rgb(234, 54, 99) ;
 }
 .bg{
-    background-color: rgb(249, 239, 146);
+    background-color: rgb(189, 189, 189);
 }
 .bgblue{
     background-color: rgb(150, 100, 7);
@@ -10,4 +10,7 @@
 .form-select {
     width: 500px;
     height: 37px;
+}
+header {
+    background-color: rgb(47, 45, 45);
 }

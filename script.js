@@ -57,7 +57,7 @@ function pagination() {
             service();
         });
         if (currentPage == i) {
-            btn.style.backgroundColor = 'green';
+            btn.style.backgroundColor = 'red';
         } else {
             btn.style.backgroundColor = 'none';
         }
