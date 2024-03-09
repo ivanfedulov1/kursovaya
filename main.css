@@ -1,3 +1,4 @@
+
 .bg-blue{
     background-color: rgb(234, 54, 99) ;
 }
@@ -13,4 +14,9 @@
 }
 header {
     background-color: rgb(47, 45, 45);
+}                
+
+
+.header-title {
+    color:rgb(77, 112, 216);
 }
